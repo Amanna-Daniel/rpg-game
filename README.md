@@ -1,3 +1,3 @@
 # RPG
 
-A turn based game using HTML, CSS and javascript.
+A turn based game using HTML, CSS and javascript!
